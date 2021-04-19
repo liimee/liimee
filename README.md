@@ -1,4 +1,4 @@
-deno because why not
+GTK is awesome
 
 ___
 I'm the worst at everything—Everything I make is *very* useless
