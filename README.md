@@ -1,4 +1,4 @@
-GNOME Builder really needs to improve it's JS completion
+GNOME Builder really needs to improve its JS completion
 
 ___
 I'm the worst at everything—Everything I make is *very* useless, poorly made, and horrible
