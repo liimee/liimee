@@ -1,4 +1,4 @@
-GTK is awesome
+GNOME Builder really needs to improve it's JS completion
 
 ___
 I'm the worst at everything—Everything I make is *very* useless, poorly made, and horrible
