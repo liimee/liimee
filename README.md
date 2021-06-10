@@ -1,4 +1,4 @@
-OpenStreetMap for lifeeeeee
+Mastodon is pretty cool
 
 ___
 I'm the worst at everything—Everything I make is *very* useless, poorly made, and horrible
