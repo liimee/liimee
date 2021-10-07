@@ -5,3 +5,7 @@ Proud user of ![Fedora](https://img.shields.io/badge/-Fedora-blue?style=flat-squ
 
 ___
 https://github.com/pveyes/indihmm
+
+___
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
