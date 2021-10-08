@@ -9,6 +9,8 @@ https://github.com/pveyes/indihmm
 ___
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go     1 hr 47 mins    ██████████████████████▓░░   90.98 % 
+CSS    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+JSON   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->
