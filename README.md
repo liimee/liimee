@@ -9,8 +9,8 @@ https://github.com/pveyes/indihmm
 ___
 <!--START_SECTION:waka-->
 ```text
-Go     4 hrs 6 mins    ████████████████████████░   95.88 % 
-CSS    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-JSON   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Go           7 hrs 18 mins   ███████████████████████░░   91.50 % 
+CSS          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
