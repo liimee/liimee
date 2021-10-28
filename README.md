@@ -9,10 +9,10 @@ https://github.com/pveyes/indihmm
 ___
 <!--START_SECTION:waka-->
 ```text
-HTML         2 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.63 % 
-Go           1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   31.38 % 
-JavaScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Markdown     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Git Config   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+HTML         2 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Go           1 hr 51 mins    ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+PHP          1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.68 % 
+JavaScript   40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Ruby         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 <!--END_SECTION:waka-->
