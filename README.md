@@ -4,7 +4,7 @@ ___
 Proud user of ![Fedora](https://img.shields.io/badge/-Fedora-blue?style=flat-square&logo=fedora)
 
 ___
-Notes:
+Read it <s>later</s>now
 - https://github.com/pveyes/indihmm
 - https://www.buttoncheatsheet.com/
 
