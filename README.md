@@ -11,8 +11,8 @@ Read it <s>later</s>now
 ___
 <!--START_SECTION:waka-->
 ```text
-PHP        1 hr 26 mins    ███████████▓░░░░░░░░░░░░░   47.27 % 
-HTML       1 hr 16 mins    ██████████▒░░░░░░░░░░░░░░   41.85 % 
-Ruby       18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML         1 hr 13 mins    ███████████████████▒░░░░░   76.68 % 
+JavaScript   20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.05 % 
+Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 <!--END_SECTION:waka-->
