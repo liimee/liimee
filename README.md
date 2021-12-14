@@ -11,10 +11,10 @@ Read it <s>later</s>now
 ___
 <!--START_SECTION:waka-->
 ```text
-Ruby         3 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   36.77 % 
-TypeScript   1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
-HTML         1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-JavaScript   1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-JSON         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Ruby         3 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   39.20 % 
+TypeScript   2 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.50 % 
+HTML         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+JavaScript   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JSON         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 <!--END_SECTION:waka-->
