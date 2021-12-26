@@ -8,6 +8,7 @@ Read it <s>later</s>now
 - https://github.com/pveyes/indihmm
 - https://www.buttoncheatsheet.com/
 - https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/
+- https://opalrb.com/
 
 ___
 <!--START_SECTION:waka-->
