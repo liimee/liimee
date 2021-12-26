@@ -9,6 +9,7 @@ Read it <s>later</s>now
 - https://www.buttoncheatsheet.com/
 - https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/
 - https://opalrb.com/
+- https://libredd.it/rovu26
 
 ___
 <!--START_SECTION:waka-->
