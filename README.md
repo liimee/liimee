@@ -9,10 +9,12 @@ Read it <s>later</s>now
 - https://www.buttoncheatsheet.com/
 - https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/
 - https://opalrb.com/
+- https://css-tricks.com/did-you-know-about-the-has-css-selector/
 - https://libredd.it/rovu26
 
 ___
 <!--START_SECTION:waka-->
+this week
 ```text
 Ruby         5 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   40.01 % 
 JavaScript   2 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 % 
