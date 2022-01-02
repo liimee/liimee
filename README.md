@@ -14,7 +14,7 @@ Read it <s>later</s>now
 
 ___
 <!--START_SECTION:waka-->
-this week
+last 7 days
 ```text
 Ruby         5 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   40.01 % 
 JavaScript   2 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 % 
