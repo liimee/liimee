@@ -15,10 +15,10 @@ Read it <s>later</s>now
 ___
 <!--START_SECTION:waka-->
 ```text
-TypeScript   17 hrs 58 mins  ████████████▓░░░░░░░░░░░░   50.62 % 
-JavaScript   4 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Vue.js       2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Other        2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-JSON         2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TypeScript   20 hrs 5 mins   ███████████████▓░░░░░░░░░   62.34 % 
+Vue.js       2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JavaScript   2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JSON         2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Docker       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
 <!--END_SECTION:waka-->
