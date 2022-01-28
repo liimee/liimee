@@ -11,6 +11,7 @@ Read it <s>later</s>now
 - https://opalrb.com/
 - https://css-tricks.com/did-you-know-about-the-has-css-selector/
 - https://libredd.it/rovu26
+- https://codetasty.com/
 
 ___
 <!--START_SECTION:waka-->
