@@ -18,8 +18,7 @@ Read it <s>later</s>now
 ___
 <!--START_SECTION:waka-->
 ```text
-JavaScript   27 mins         ███████████████████▓░░░░░   78.58 % 
-Other        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JavaScript   6 mins          ████████████████▓░░░░░░░░   67.32 % 
+TypeScript   3 mins          ████████▒░░░░░░░░░░░░░░░░   32.68 % 
 ```
 <!--END_SECTION:waka-->
