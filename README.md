@@ -18,7 +18,9 @@ Read it <s>later</s>now
 ___
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 mins          ████████████████░░░░░░░░░   63.73 % 
-TypeScript   3 mins          █████████░░░░░░░░░░░░░░░░   36.26 % 
+JavaScript   39 mins         ████████████████▓░░░░░░░░   66.53 % 
+YAML         14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Go           3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
