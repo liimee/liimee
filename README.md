@@ -18,4 +18,5 @@ pie
 - https://catern.com/change_code.html
 - https://www.computerhope.com/history/index.htm
 - https://libreddit.spike.codes/t083l2
+- https://www.quora.com/My-10-year-old-son-spends-way-too-much-time-coding-web-applications-on-his-computer-How-do-I-make-him-spend-his-time-doing-regular-kid-stuff-like-video-games
 ```
