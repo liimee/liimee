@@ -1,13 +1,3 @@
-```mermaid
-pie
-    Type of projects
-    "Bad" : 42.96
-    "Extremely Bad" : 50.05
-    "Really Bad" : 10.01
-    "Infinitely Bad" :  5
-```
-
-```markdown
 - https://github.com/pveyes/indihmm
 - https://www.buttoncheatsheet.com/
 - https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/
@@ -19,4 +9,3 @@ pie
 - https://www.computerhope.com/history/index.htm
 - https://libreddit.spike.codes/t083l2
 - https://www.quora.com/My-10-year-old-son-spends-way-too-much-time-coding-web-applications-on-his-computer-How-do-I-make-him-spend-his-time-doing-regular-kid-stuff-like-video-games
-```
